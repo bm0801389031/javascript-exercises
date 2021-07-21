@@ -20,8 +20,7 @@ const ctof = function(c) {
   }
 };
 
-//let arithamtic = (73.2 * 1.8) + 32
-//console.log(arithamtic)
+
 
 module.exports = {
   ftoc,
