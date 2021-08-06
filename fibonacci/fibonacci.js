@@ -5,7 +5,6 @@ const fibonacci = function(index) {
     fib[0] = 0;
     fib[1] = 1;
 
-
     if (index < 0){
         return 'OOPS'
     } else {
